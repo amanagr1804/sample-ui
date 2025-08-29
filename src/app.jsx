@@ -19,7 +19,7 @@ export function App() {
       <h1>Vite + Preact</h1>
       <div class="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is "Click me1111111ddd11122fff22" {count} dkjfndsjkdnfksd TESTING WEBHOOKdddd NEW sdasdas
+          count is "Click me1111111ddd11122fff22" {count} dkjfndsjkdnfksd TESfdsfdsTING WEBHOOKdddd NEW sdasdas
         </button>
         <p>
           Edit <code>src/app.jsx</code> and save to test HMR
